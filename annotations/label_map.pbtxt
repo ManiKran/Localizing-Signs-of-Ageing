@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'wrinkle'
+}
+
+item {
+    id: 2
+    name: 'dark spot'
+}
+
+item {
+    id: 3
+    name: 'puffy eye'
+}
